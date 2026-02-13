@@ -86,12 +86,6 @@ Dataset/
     └── full_count/
 ```
 
-## 📈 Results
-
-[Add your quantitative results here - PSNR, SSIM, MSE, etc.]
-
-[Add example reconstruction images comparing the three methods]
-
 ## 📖 Documentation
 
 For detailed methodology, experimental setup, and results analysis, please refer to `thesis.pdf`.
@@ -117,11 +111,3 @@ If you use this code in your research, please cite:
 ## 📧 Contact
 
 For questions or collaborations, please open an issue or contact via GitHub.
-
-## 📄 License
-
-[Specify your license here - e.g., MIT, Apache 2.0, etc.]
-
-## 🙏 Acknowledgments
-
-[Add acknowledgments if applicable]
