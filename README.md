@@ -46,17 +46,6 @@ scikit-image
 jupyter
 ```
 
-## 💻 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/WaimenMak/PET-Image-Reconstruction.git
-cd PET-Image-Reconstruction
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ## 📊 Usage
 
 ### Training
